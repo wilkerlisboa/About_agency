@@ -1,9 +1,19 @@
-General
+/*General*/
 *{
     margin: 0;
     padding: 0;
 }
 
+/*Box Of The Text and Image*/
+.Container{
+    width: 813px;
+    height: 629px;
+    background: black;
+    position: absolute;
+    margin: -30px -10px -10px -13px;
+}
+
+/*First Title*/
 #Title{
     position: absolute;
     color: blueviolet;
@@ -12,6 +22,7 @@ General
     font-size: xxx-large;
 }
 
+/*Box Text*/
 #Text{
     position: absolute;
     color: white;
@@ -23,15 +34,7 @@ General
     font-weight: 500;
     font-family: 'Roboto', sans-serif;
 }
-
-.Container{
-    width: 813px;
-    height: 629px;
-    background: black;
-    position: absolute;
-    margin: -30px -10px -10px -13px;
-}
-
+/*Box Image*/
 #img{
     width: 520px;
     height: 507px;
