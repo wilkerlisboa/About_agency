@@ -1,0 +1,47 @@
+General
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#Title{
+    position: absolute;
+    color: blueviolet;
+    font-family: 'Roboto', sans-serif;
+    margin: 100px 0px 0px 226px;
+    font-size: xxx-large;
+}
+
+#Text{
+    position: absolute;
+    color: white;
+    width: 518px;
+    margin: 154px 0px 0px 224px;
+    letter-spacing: 1px;
+    font-size: unset;
+    font-style: normal;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Container{
+    width: 904px;
+    height: 629px;
+    background: black;
+    position: absolute;
+    margin: -30px -10px -10px -13px;
+}
+
+#img{
+    width: 478px;
+    height: 500px;
+    border-radius: 8px;
+    box-shadow: 15px 19px 26px -21px #000000b0;
+    position: absolute;
+    background: url(https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 59px 0px 0px 828px;;
+
+}
