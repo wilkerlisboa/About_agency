@@ -8,7 +8,7 @@ General
     position: absolute;
     color: blueviolet;
     font-family: 'Roboto', sans-serif;
-    margin: 100px 0px 0px 226px;
+    margin: 100px 0px 0px 172px;
     font-size: xxx-large;
 }
 
@@ -16,7 +16,7 @@ General
     position: absolute;
     color: white;
     width: 518px;
-    margin: 154px 0px 0px 224px;
+    margin: 154px 0px 0px 171px;
     letter-spacing: 1px;
     font-size: unset;
     font-style: normal;
@@ -25,7 +25,7 @@ General
 }
 
 .Container{
-    width: 904px;
+    width: 813px;
     height: 629px;
     background: black;
     position: absolute;
@@ -33,8 +33,8 @@ General
 }
 
 #img{
-    width: 478px;
-    height: 500px;
+    width: 520px;
+    height: 507px;
     border-radius: 8px;
     box-shadow: 15px 19px 26px -21px #000000b0;
     position: absolute;
@@ -42,6 +42,6 @@ General
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 59px 0px 0px 828px;;
+    margin: 60px 0px 0px 732px;
 
 }
