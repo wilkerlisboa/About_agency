@@ -1,3 +1,4 @@
+/*General*/
 *{
     margin: 0;
     padding: 0;
@@ -7,11 +8,10 @@ body{
     overflow-x: hidden;
 }
 
+/*Responsive*/
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
    
-
-    
-
+    /*Box Of The Text and Image*/
     .Container {
         width: 108%;
         height: 100%;
@@ -20,6 +20,7 @@ body{
         margin: 231px -10px -10px -13px;
     }
 
+    /*First Title*/
     #Title {
         position: absolute;
         color: blueviolet;
@@ -28,6 +29,7 @@ body{
         font-size: 204%;
     }
 
+    /*Box Text*/
     #Text {
         position: absolute;
         color: white;
@@ -40,6 +42,7 @@ body{
         font-family: 'Roboto', sans-serif;
     }
 
+    /*Box Image*/
     #img {
         width: 75%;
     height: 37%;
